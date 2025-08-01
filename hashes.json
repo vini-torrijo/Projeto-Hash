@@ -1,0 +1,50 @@
+[
+    {
+        "nome": "abraço.txt",
+        "caminho": "C:\\Users\\Torri\\OneDrive\\Área de Trabalho\\Projeto Hash\\Dados\\abraço.txt",
+        "tamanho": 68,
+        "sha256": "7f53f9a0cb6a19ba4c25d8eacfb77d00be127e5fe0008d6bbb27cf2818ec02eb",
+        "data_att": "27-07-2025 18:01:34",
+        "tipo": "txt"
+    },
+    {
+        "nome": "Christianini.txt",
+        "caminho": "C:\\Users\\Torri\\OneDrive\\Área de Trabalho\\Projeto Hash\\Dados\\Christianini.txt",
+        "tamanho": 28,
+        "sha256": "25ab69bc76413f3f88a73f44f0cb8cd1a9dd41e2ae1338ae4b3badd483404ae3",
+        "data_att": "24-07-2025 13:18:12",
+        "tipo": "txt"
+    },
+    {
+        "nome": "dsds",
+        "caminho": "C:\\Users\\Torri\\OneDrive\\Área de Trabalho\\Projeto Hash\\Dados\\dsds",
+        "tamanho": 0,
+        "sha256": "bf4bdf6274f61aa2dfa7f864e30aa4e5722b40ca83cb2b6fd9c33f4615278498",
+        "data_att": "01-08-2025 12:08:27",
+        "tipo": "pasta"
+    },
+    {
+        "nome": "Fernandes.txt",
+        "caminho": "C:\\Users\\Torri\\OneDrive\\Área de Trabalho\\Projeto Hash\\Dados\\Fernandes.txt",
+        "tamanho": 64,
+        "sha256": "70a38e3ef0a663212f2024aed2591cfdf40b8d94bec7eb68b3a684500a99d242",
+        "data_att": "24-07-2025 12:53:50",
+        "tipo": "txt"
+    },
+    {
+        "nome": "Torrijo.txt",
+        "caminho": "C:\\Users\\Torri\\OneDrive\\Área de Trabalho\\Projeto Hash\\Dados\\Torrijo.txt",
+        "tamanho": 76,
+        "sha256": "666bab23b8a0ace2da277f5024fc1961c835aeedfe75e8f8e4a3a01375a47c8c",
+        "data_att": "27-07-2025 17:43:38",
+        "tipo": "txt"
+    },
+    {
+        "nome": "Vinicius.txt",
+        "caminho": "C:\\Users\\Torri\\OneDrive\\Área de Trabalho\\Projeto Hash\\Dados\\Vinicius.txt",
+        "tamanho": 66,
+        "sha256": "eb6965592bb10d44c9e87a570dc6a7e827c11196e7a28f5311a0f5aea83ada24",
+        "data_att": "27-07-2025 17:48:30",
+        "tipo": "txt"
+    }
+]
