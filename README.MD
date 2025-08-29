@@ -29,11 +29,11 @@ Como usar:
 ----------
 1. Instale o Python 3.9 ou superior.
 
-2. Clone este repositório ou baixe o script `monitor.py`.
+2. Clone este repositório ou baixe o script `gerar_hashes.exe`.
 
 3. Execute o script:
 
-   > python monitor.py
+   > gerar_hashes.exe
 
 4. Insira o caminho da pasta que deseja monitorar quando solicitado.
 
